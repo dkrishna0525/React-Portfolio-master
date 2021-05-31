@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"",
-    "name": "Krishna D",
-    "role": "UI Developer",
+    "name": "Krishna Srikanth Donthineni",
+    "role": "Software Engineer",
     /*"linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",*/
     "roleDescription": " ",
